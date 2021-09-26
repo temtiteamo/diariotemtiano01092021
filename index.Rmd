@@ -1,0 +1,31 @@
+--- 
+title: "Diario Temtiano edición 01.09.2021"
+date: "2021-09-01"
+lang: es-es
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+github-repo: temtiteamo/diariotemtiano01092021
+description: "Mucho texto acerca de un tramo de la historia temtiana."
+header-includes:
+  - \usepackage{fancyhdr}
+  - \usepackage{lipsum}
+  - \pagestyle{plain}
+  - \fancyhead[CO,CE]{\thepage}
+  - \fancyfoot[LE,RO]{\thepage}
+---
+
+
+# Notas de la edición {-}
+
+**Diario Temtiano** edición 01.09.2021
+
+## Novedades en esta edición {-}
+- Realizadas correcciones minimas en algunos pocos subcapitulos.
+- Añadida en el subcapitulo X del quinto capitulo la faltante mención a la canción When Im Gone.
+- Agregados dos subcapítulos nuevos al quinto capitulo. Estos tratan principalmente sobre: los meses de absoluta inactividad, y los días finales de Temti fuera de orbita que también coincidieron con la revuelta de los antros rozzados.
+
+## Cambios previstos para la próxima edición {-}
+- Seguir poniéndose al día.
+- Continuar corrigiendo errores.
+
